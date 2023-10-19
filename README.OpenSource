@@ -6,15 +6,6 @@
         "Version Number": "9ba6d25d0d9313569665d4a9d2b34f0f39f9a50e",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/emoji-segmenter.git@9ba6d25d0d9313569665d4a9d2b34f0f39f9a50e",
-        "Description": "第三方软件emoji-segmenter"
-    },
-    {
-        "Name": "emoji_segmenter",
-        "License": "ImageMagick",
-        "License File":  "LICENSE",
-        "Version Number": "9ba6d25d0d9313569665d4a9d2b34f0f39f9a50e",
-        "Owner": "huangjiewen2@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/emoji-segmenter.git@9ba6d25d0d9313569665d4a9d2b34f0f39f9a50e",
-        "Description": "第三方软件emoji-segmenter"
-    },
+        "Description": "第三方软件emoji-segmenter,表情符号分割器"
+    }
 ]

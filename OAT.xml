@@ -55,7 +55,7 @@ used to filter file path.
     & == &amp;
     ' == &apos;
     < == &lt;
-    > == &gt;
+    > == &gt; 
 -->
 
 <configuration>
