@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "emoji_segmenter",
+        "License": "Apache-2.0",
+        "License File":  "LICENSE",
+        "Version Number": "955936be8b391e00835257059607d7c5b72ce744",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/emoji-segmenter.git@955936be8b391e00835257059607d7c5b72ce744",
+        "Description": "第三方软件emoji-segmenter,表情符号分割器"
+    }
+]
